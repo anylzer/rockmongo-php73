@@ -1,7 +1,9 @@
 Introduction
 --------------------------------------
-RockMongo is a MongoDB administration tool, written in PHP 7.33, very easy to install and use.
+RockMongo is a MongoDB administration tool, written in PHP 7.3+, very easy to install and use.
 
+MongoDB is allow under 4.2.0
+[$eval command is removed after version 4.2.0](https://github.com/hzpz/mongeez-spring-boot-starter/issues/13)
 
 Installation
 --------------------------------------
